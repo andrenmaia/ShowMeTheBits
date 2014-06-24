@@ -1,0 +1,9 @@
+D:\EngenhariaDeSoftware\my\ShowMeTheBits\bin\Debug\ShowMeTheBits.exe.config
+D:\EngenhariaDeSoftware\my\ShowMeTheBits\bin\Debug\ShowMeTheBits.exe
+D:\EngenhariaDeSoftware\my\ShowMeTheBits\bin\Debug\ShowMeTheBits.pdb
+D:\EngenhariaDeSoftware\my\ShowMeTheBits\obj\Debug\ShowMeTheBits.csprojResolveAssemblyReference.cache
+D:\EngenhariaDeSoftware\my\ShowMeTheBits\obj\Debug\ShowMeTheBits.exe
+D:\EngenhariaDeSoftware\my\ShowMeTheBits\obj\Debug\ShowMeTheBits.pdb
+D:\EngenhariaDeSoftware\Trash\ShowMeTheBits\bin\Debug\ShowMeTheBits.exe.config
+D:\EngenhariaDeSoftware\Trash\ShowMeTheBits\obj\Debug\ShowMeTheBits.exe
+D:\EngenhariaDeSoftware\Trash\ShowMeTheBits\obj\Debug\ShowMeTheBits.pdb
